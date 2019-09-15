@@ -14,5 +14,6 @@ class CallBackListing : DiffUtil.ItemCallback<ItemEntityListing>(){
           oldItem.name ==newItem.name &&
           oldItem.score ==newItem.score &&
           oldItem.comments ==newItem.comments
+
     }
 }

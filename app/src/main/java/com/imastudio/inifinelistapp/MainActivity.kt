@@ -12,6 +12,7 @@ import com.imastudio.inifinelistapp.database.CallBackListingNetwork
 import com.imastudio.inifinelistapp.database.Listingdb
 import com.imastudio.inifinelistapp.model.ItemEntityListing
 import kotlinx.android.synthetic.main.activity_main.*
+import org.jetbrains.anko.toast
 
 class MainActivity : AppCompatActivity() {
 
@@ -21,6 +22,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         initList()
+        toast("latihan 1")
+        toast("latihan 2")
+        toast("latihan 3")
+
     }
 
     private fun initList() {

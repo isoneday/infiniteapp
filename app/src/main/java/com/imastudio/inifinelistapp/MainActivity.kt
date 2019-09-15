@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         toast("latihan 3")
         toast("latihan 33")
         toast("latihan 34")
-        toast("latihan 35")
+//        toast("latihan 35")
 
     }
 

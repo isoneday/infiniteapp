@@ -26,6 +26,15 @@ class MainActivity : AppCompatActivity() {
         toast("latihan 2")
         toast("latihan 3")
 
+toast("latihan 4")
+        toast("latihan 5")
+        toast("latihan 6")
+        toast("latihan 7")
+        toast("latihan 8")
+        toast("latihan 9")
+        toast("latihan 10")
+        toast("latihan 11")
+        
     }
 
     private fun initList() {

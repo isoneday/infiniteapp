@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InifineList App</string>
+    <string name="score">Score : %1$d</string>
+    <string name="comment">comment :%1$d</string>
+</resources>
